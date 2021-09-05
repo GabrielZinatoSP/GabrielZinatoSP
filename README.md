@@ -17,7 +17,7 @@
   <div style="display: inline_block"><br>
 
   <a href="https://github.com/GabrielZinatoSP/Python-projects-and-exercises">
-  <img align="left" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a><a href="https://github.com/GabrielZinatoSP/Pandas"><img align="center" height="100" width="200" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png"></a>
+  <img align="left" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a><a href="https://github.com/GabrielZinatoSP/Pandas"><img align="center" height="100" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"></a>
 </div>
   
   ##
