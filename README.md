@@ -3,13 +3,9 @@
 ### I'm Gabriel Zinato, from São Paulo, Brazil.
 ### I graduated in Geology at the [Universidade de São Paulo](https://igc.usp.br/en/).
 ### I speak English, Brazilian Portuguese and Spanish.
-### Data Science and Python student at [Let's Code](https://letscode.com.br/), currently looking for a job.
+### Data Science and Python student at [Let's Code](https://letscode.com.br/), currently looking for a job. I'm really enjoying this field and have been putting a lot of effort and time into learning as much as I can about Data Science and Machine Learning. I'll be posting my projects here to use this space as a portfolio and to allow me to track my progress.
 
-  <div>
-  <a href="https://github.com/GabrielZinatoSP">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GabrielZinatoSP&show_icons=true&include_all_commits=true&count_private=true"/>
-  </div>
-  
+    
   ##
   
   ### My repositories:
@@ -17,7 +13,7 @@
   <div style="display: inline_block"><br>
 
   <a href="https://github.com/GabrielZinatoSP/Python-projects-and-exercises">
-  <img align="left" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a><a href="https://github.com/GabrielZinatoSP/Pandas"><img align="center" height="100" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"></a>
+  <img align="left" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a><a href="https://github.com/GabrielZinatoSP/Pandas"><img align="center" height="100" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"></a><a href="https://github.com/GabrielZinatoSP/WineQualityLetsCode"><img align="center" height="100" width="200" src="https://images.unsplash.com/photo-1568213816046-0ee1c42bd559?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"></a>
 </div>
   
   ##
