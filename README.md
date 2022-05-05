@@ -1,10 +1,6 @@
 # Welcome!
 
-### I'm Gabriel Zinato, from São Paulo, Brazil.
-### I graduated in Geology at the [Universidade de São Paulo](https://igc.usp.br/en/).
-### I speak English, Brazilian Portuguese and Spanish.
-### Data Science and Python student at [Let's Code](https://letscode.com.br/), currently looking for a job. I'm really enjoying this field and have been putting a lot of effort and time into learning as much as I can about Data Science and Machine Learning. I'll be posting my projects here to use this space as a portfolio and to allow me to track my progress.
-
+### I'm Gabriel Zinato, from São Paulo, Brazil. I completed a B.Sc. in Geology at the [Universidade de São Paulo](https://igc.usp.br/en/) in 2018. Currently, I'm studying Data Science and Python at [Let's Code](https://letscode.com.br/) and looking for my first opportunity in the Data field. I'm really enjoying this field and have been putting a lot of effort and time into learning as much as I can about Data Science and Machine Learning. I'll be posting my projects here to use this space as a portfolio and to allow me to track my progress.
     
   ##
   
