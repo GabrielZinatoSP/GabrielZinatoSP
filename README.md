@@ -1,6 +1,13 @@
 # Welcome!
 
-### I'm Gabriel Zinato, from São Paulo, Brazil. I completed a B.Sc. in Geology at the [Universidade de São Paulo](https://igc.usp.br/en/) in 2018. Currently, I'm studying Data Science and Python at [Let's Code](https://letscode.com.br/). I'm really enjoying this field and have been putting a lot of effort and time into learning as much as I can about Data Science and Machine Learning. I'll be posting my projects here to use this space as a portfolio and to allow me to track my progress. I worked for six months as a Data Analyst at [Revista Oeste](https://revistaoeste.com/).
+### I'm Gabriel Zinato, from São Paulo, Brazil. I completed a B.Sc. in Geology at the [Universidade de São Paulo](https://igc.usp.br/en/) in 2018. In July 2022, I completed a one year Data Science course at [Let's Code](https://letscode.com.br/). I'm really enjoying this field and have been putting a lot of effort and time into learning as much as I can about Data Science and Machine Learning. I'll be posting my projects here to use this space as a portfolio and to allow me to track my progress. 
+
+##
+
+### My work Experience:
+
+### I worked for four months as a Data Analyst at [Revista Oeste](https://revistaoeste.com/).
+### Currently, I'm working as a Data Scientist at [Maida.health](https://maida.health/).
     
   ##
   
