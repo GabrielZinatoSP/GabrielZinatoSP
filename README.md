@@ -7,7 +7,7 @@
 ### My work Experience:
 
 ### I worked for four months as a Data Analyst at [Revista Oeste](https://revistaoeste.com/).
-### Currently, I'm working as a Data Scientist at [Maida.health](https://maida.health/).
+### Currently, I'm working as a Data Scientist at [Turing](https://turing.com).
     
   ##
   
