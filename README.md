@@ -8,7 +8,11 @@
 
 ### I worked for four months as a Data Analyst at [Revista Oeste](https://revistaoeste.com/), helping keep track of KPIs based on the data we had on the subscriptions of the magazine.
 ### At [Maida Health](https://maida.health/sobre-nos), I worked as a Data Scientist, studying the data we had from our clients (health ensurance plans) to help them mitigate expenditures and plan ahead. My MBA's project was about studying frauds on medical examination requests from one of our clients and it diminished the costs our client in over 15%.
-### Currently, I'm working as a Data Scientist at [Turing](https://turing.com), helping fine-tune an LLM for one of our clients.
+### Later, I worked as a Data Scientist at [Turing](https://turing.com), helping fine-tune an LLM for one of our clients. it was an experience that taught me a lot about LLMs and their process of fine tuning.
+### Today, I work at Nutrien, on a project to increase the efficiency of one of their industries by tackling three different fronts of their operations:
+    - Optimization of the production pipeline (Operational Research)
+    - Demand forecast
+    - Preventive maintenance planning
     
   ##
   
